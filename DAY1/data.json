@@ -1,0 +1,78 @@
+[
+  {
+    "id": 2,
+    "first_name": "Diane",
+    "last_name": "Carter",
+    "email": "dianecarter1228@slingacademy.com",
+    "phone": "881.633.0107",
+    "gender": "female",
+    "age": 26,
+    "job_title": "Machine Learning Engineer",
+    "years_of_experience": 2,
+    "salary": 7000,
+    "department": "Product"
+  },
+  {
+    "id": 1767674899874
+  },
+  {
+    "id": 1767674940601
+  },
+  {
+    "id": 1767674959075
+  },
+  {
+    "id": 1767674981152
+  },
+  {
+    "id": 1767680156337
+  },
+  {
+    "id": 1767680217200,
+    "name": "Aesha",
+    "role": "Developer",
+    "email": "aesha@gmail.com"
+  },
+  {
+    "id": 1767680269041,
+    "name": "Aesha",
+    "role": "Developer",
+    "email": "aesha@gmail.com"
+  },
+  {
+    "id": 1767680279267,
+    "name": "Aesha",
+    "role": "Develor",
+    "email": "aesha@gmail.com"
+  },
+  {
+    "id": 1767680653944
+  },
+  {
+    "id": 1767680775831,
+    "name": "Nishant",
+    "role": "QA",
+    "email": "aesha@gmail.com"
+  },
+  {
+    "id": 1767680948648,
+    "name": "Nishant",
+    "role": "QA",
+    "email": "aesha@gmail.com"
+  },
+  {
+    "id": 1767680975675
+  },
+  {
+    "id": 1767680987683,
+    "name": "Raj",
+    "role": "QE",
+    "email": "raj@gmail.com"
+  },
+  {
+    "id": 1767681002539,
+    "name": "Rj",
+    "role": "QE",
+    "email": "raj@gmail.com"
+  }
+]
